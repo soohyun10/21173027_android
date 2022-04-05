@@ -11,5 +11,5 @@
 <img width="" height="" src="./png/4th.png"></img>
 
 # 5주차(2022-04-05)
-<img width="" height="" src="./png/5st.png"></img>
-<img width="" height="" src="./png/5st_1.png"></img>
+<img width="" height="" src="./png/5st.PNG"></img>
+<img width="" height="" src="./png/5st_1.PNG"></img>
